@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="annalyns-infiltration" target="1.8" />
+      <module name="annalyns-infiltration.main" target="1.8" />
+      <module name="annalyns-infiltration.test" target="1.8" />
+      <module name="bird-watcher" target="1.8" />
+      <module name="bird-watcher.main" target="1.8" />
+      <module name="bird-watcher.test" target="1.8" />
+      <module name="cars-assemble" target="1.8" />
+      <module name="cars-assemble.main" target="1.8" />
+      <module name="cars-assemble.test" target="1.8" />
+      <module name="elons-toy-car" target="1.8" />
+      <module name="elons-toy-car.main" target="1.8" />
+      <module name="elons-toy-car.test" target="1.8" />
+      <module name="gigasecond" target="1.8" />
+      <module name="gigasecond.main" target="1.8" />
+      <module name="gigasecond.test" target="1.8" />
+      <module name="hamming" target="1.8" />
+      <module name="hamming.main" target="1.8" />
+      <module name="hamming.test" target="1.8" />
+      <module name="remote-control-competition" target="1.8" />
+      <module name="remote-control-competition.main" target="1.8" />
+      <module name="remote-control-competition.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
